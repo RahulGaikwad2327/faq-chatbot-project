@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return any product within 7 days of purchase."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order using the tracking link sent to your email."
+  },
+  {
+    "question": "Do you provide customer support?",
+    "answer": "Yes, we provide 24/7 customer support via chat and email."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept credit cards, debit cards, UPI and net banking."
+  }
+]
